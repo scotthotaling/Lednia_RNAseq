@@ -1,0 +1,135 @@
+site_name,type,species,t_point_est,t_max,t_range,group,ctmax_C,length_mm
+Lunch Creek,snowmelt,L. tumana,6.2,9.9,6.2,warm,26.1,4.5
+Lunch Creek,snowmelt,L. tumana,6.2,9.9,6.2,warm,26.7,4.25
+Lunch Creek,snowmelt,L. tumana,6.2,9.9,6.2,warm,27.2,5
+Lunch Creek,snowmelt,L. tumana,6.2,9.9,6.2,warm,27.3,4.3
+Lunch Creek,snowmelt,L. tumana,6.2,9.9,6.2,warm,27.3,5.75
+Lunch Creek,snowmelt,L. tumana,6.2,9.9,6.2,warm,27.5,4.5
+Lunch Creek,snowmelt,L. tumana,6.2,9.9,6.2,warm,27.7,5
+Lunch Creek,snowmelt,L. tumana,6.2,9.9,6.2,warm,27.8,5.25
+Lunch Creek,snowmelt,L. tumana,6.2,9.9,6.2,warm,27.9,5
+Lunch Creek,snowmelt,L. tumana,6.2,9.9,6.2,warm,27.9,5
+Lunch Creek,snowmelt,L. tumana,6.2,9.9,6.2,warm,28.1,5
+Lunch Creek,snowmelt,L. tumana,6.2,9.9,6.2,warm,28.7,
+Lunch Creek,snowmelt,L. tumana,6.2,9.9,6.2,warm,28.9,4.5
+Lunch Creek,snowmelt,L. tumana,6.2,9.9,6.2,warm,29,4
+Lunch Creek,snowmelt,L. tumana,6.2,9.9,6.2,warm,29.4,
+Lunch Creek,snowmelt,L. tumana,6.2,9.9,6.2,warm,29.5,4.5
+Lunch Creek,snowmelt,L. tumana,6.2,9.9,6.2,warm,29.9,
+Lunch Creek,snowmelt,L. tumana,6.2,9.9,6.2,warm,30.1,
+Lunch Creek,snowmelt,L. tumana,6.2,9.9,6.2,warm,30.1,5.75
+Lunch Creek,snowmelt,L. tumana,6.2,9.9,6.2,warm,30.2,5
+Lunch Creek,snowmelt,L. tumana,6.2,9.9,6.2,warm,30.3,4.5
+Lunch Creek,snowmelt,L. tumana,6.2,9.9,6.2,warm,30.4,
+Lunch Creek,snowmelt,L. tumana,6.2,9.9,6.2,warm,30.5,5.5
+Lunch Creek,snowmelt,L. tumana,6.2,9.9,6.2,warm,30.6,5
+Cloudveil Dome,glacier-fed,L. Tetonica,2.4,2.1,0.3,cool,22.3,5
+Cloudveil Dome,glacier-fed,L. Tetonica,2.4,2.1,0.3,cool,22.6,5
+Cloudveil Dome,glacier-fed,L. Tetonica,2.4,2.1,0.3,cool,23.4,
+Cloudveil Dome,glacier-fed,L. Tetonica,2.4,2.1,0.3,cool,24,3.25
+Cloudveil Dome,glacier-fed,L. Tetonica,2.4,2.1,0.3,cool,24.1,4.5
+Cloudveil Dome,glacier-fed,L. Tetonica,2.4,2.1,0.3,cool,24.7,
+Cloudveil Dome,glacier-fed,L. Tetonica,2.4,2.1,0.3,cool,24.8,
+Cloudveil Dome,glacier-fed,L. Tetonica,2.4,2.1,0.3,cool,25.1,
+Cloudveil Dome,glacier-fed,L. Tetonica,2.4,2.1,0.3,cool,26,
+Cloudveil Dome,glacier-fed,L. Tetonica,2.4,2.1,0.3,cool,26.3,4
+Cloudveil Dome,glacier-fed,L. Tetonica,2.4,2.1,0.3,cool,26.3,5.5
+Cloudveil Dome,glacier-fed,L. Tetonica,2.4,2.1,0.3,cool,26.3,4.5
+Cloudveil Dome,glacier-fed,L. Tetonica,2.4,2.1,0.3,cool,26.9,4.5
+Cloudveil Dome,glacier-fed,L. Tetonica,2.4,2.1,0.3,cool,27.1,5
+Cloudveil Dome,glacier-fed,L. Tetonica,2.4,2.1,0.3,cool,27.2,
+Cloudveil Dome,glacier-fed,L. Tetonica,2.4,2.1,0.3,cool,27.3,4
+Cloudveil Dome,glacier-fed,L. Tetonica,2.4,2.1,0.3,cool,27.4,4.5
+Cloudveil Dome,glacier-fed,L. Tetonica,2.4,2.1,0.3,cool,27.7,4
+Cloudveil Dome,glacier-fed,L. Tetonica,2.4,2.1,0.3,cool,27.9,4
+Cloudveil Dome,glacier-fed,L. Tetonica,2.4,2.1,0.3,cool,27.9,4.75
+Cloudveil Dome,glacier-fed,L. Tetonica,2.4,2.1,0.3,cool,28,5
+Cloudveil Dome,glacier-fed,L. Tetonica,2.4,2.1,0.3,cool,28.1,4.5
+Cloudveil Dome,glacier-fed,L. Tetonica,2.4,2.1,0.3,cool,28.3,4.5
+Mount St. John,icy seep,L. Tetonica,1.3,4.6,2.2,cool,22.3,5
+Mount St. John,icy seep,L. Tetonica,1.3,4.6,2.2,cool,23.1,5.75
+Mount St. John,icy seep,L. Tetonica,1.3,4.6,2.2,cool,25.4,
+Mount St. John,icy seep,L. Tetonica,1.3,4.6,2.2,cool,25.4,
+Mount St. John,icy seep,L. Tetonica,1.3,4.6,2.2,cool,25.4,5.5
+Mount St. John,icy seep,L. Tetonica,1.3,4.6,2.2,cool,25.5,
+Mount St. John,icy seep,L. Tetonica,1.3,4.6,2.2,cool,26.2,4.75
+Mount St. John,icy seep,L. Tetonica,1.3,4.6,2.2,cool,26.2,5.25
+Mount St. John,icy seep,L. Tetonica,1.3,4.6,2.2,cool,26.3,5.25
+Mount St. John,icy seep,L. Tetonica,1.3,4.6,2.2,cool,26.6,
+Mount St. John,icy seep,L. Tetonica,1.3,4.6,2.2,cool,26.7,
+Mount St. John,icy seep,L. Tetonica,1.3,4.6,2.2,cool,26.7,6
+Mount St. John,icy seep,L. Tetonica,1.3,4.6,2.2,cool,26.8,5.75
+Mount St. John,icy seep,L. Tetonica,1.3,4.6,2.2,cool,26.9,4.5
+Mount St. John,icy seep,L. Tetonica,1.3,4.6,2.2,cool,27.4,5.75
+Mount St. John,icy seep,L. Tetonica,1.3,4.6,2.2,cool,27.6,6.25
+Mount St. John,icy seep,L. Tetonica,1.3,4.6,2.2,cool,27.6,6.5
+Mount St. John,icy seep,L. Tetonica,1.3,4.6,2.2,cool,27.7,5.5
+Mount St. John,icy seep,L. Tetonica,1.3,4.6,2.2,cool,27.7,5.25
+Mount St. John,icy seep,L. Tetonica,1.3,4.6,2.2,cool,27.8,6
+Mount St. John,icy seep,L. Tetonica,1.3,4.6,2.2,cool,28.1,6.25
+Mount St. John,icy seep,L. Tetonica,1.3,4.6,2.2,cool,28.2,6.5
+Mount St. John,icy seep,L. Tetonica,1.3,4.6,2.2,cool,28.3,5.5
+Mount St. John,icy seep,L. Tetonica,1.3,4.6,2.2,cool,28.4,4.5
+Skillet Glacier,glacier-fed,L. Tetonica,8.5,7.1,4.4,warm,26.8,
+Skillet Glacier,glacier-fed,L. Tetonica,8.5,7.1,4.4,warm,26.8,6
+Skillet Glacier,glacier-fed,L. Tetonica,8.5,7.1,4.4,warm,27.5,
+Skillet Glacier,glacier-fed,L. Tetonica,8.5,7.1,4.4,warm,27.5,
+Skillet Glacier,glacier-fed,L. Tetonica,8.5,7.1,4.4,warm,28.1,
+Skillet Glacier,glacier-fed,L. Tetonica,8.5,7.1,4.4,warm,28.3,5.75
+Skillet Glacier,glacier-fed,L. Tetonica,8.5,7.1,4.4,warm,28.4,
+Skillet Glacier,glacier-fed,L. Tetonica,8.5,7.1,4.4,warm,28.7,5.5
+Skillet Glacier,glacier-fed,L. Tetonica,8.5,7.1,4.4,warm,28.9,5.5
+Skillet Glacier,glacier-fed,L. Tetonica,8.5,7.1,4.4,warm,29,5.75
+Skillet Glacier,glacier-fed,L. Tetonica,8.5,7.1,4.4,warm,29,5.3
+Skillet Glacier,glacier-fed,L. Tetonica,8.5,7.1,4.4,warm,29,5
+Skillet Glacier,glacier-fed,L. Tetonica,8.5,7.1,4.4,warm,29.3,5.25
+Skillet Glacier,glacier-fed,L. Tetonica,8.5,7.1,4.4,warm,29.5,5.25
+Skillet Glacier,glacier-fed,L. Tetonica,8.5,7.1,4.4,warm,29.6,5.5
+Skillet Glacier,glacier-fed,L. Tetonica,8.5,7.1,4.4,warm,29.6,6.25
+Skillet Glacier,glacier-fed,L. Tetonica,8.5,7.1,4.4,warm,29.6,5.5
+Tetonica Pond,snow-fed pond,L. Tetonica,4.1,5,2.3,warm,25.4,4.75
+Tetonica Pond,snow-fed pond,L. Tetonica,4.1,5,2.3,warm,26.6,4.25
+Tetonica Pond,snow-fed pond,L. Tetonica,4.1,5,2.3,warm,27,4
+Tetonica Pond,snow-fed pond,L. Tetonica,4.1,5,2.3,warm,27.7,3.5
+Tetonica Pond,snow-fed pond,L. Tetonica,4.1,5,2.3,warm,27.9,
+Tetonica Pond,snow-fed pond,L. Tetonica,4.1,5,2.3,warm,28,
+Tetonica Pond,snow-fed pond,L. Tetonica,4.1,5,2.3,warm,29,4
+Tetonica Pond,snow-fed pond,L. Tetonica,4.1,5,2.3,warm,29.1,
+Tetonica Pond,snow-fed pond,L. Tetonica,4.1,5,2.3,warm,29.1,5.5
+Tetonica Pond,snow-fed pond,L. Tetonica,4.1,5,2.3,warm,29.2,5
+Tetonica Pond,snow-fed pond,L. Tetonica,4.1,5,2.3,warm,29.5,
+Tetonica Pond,snow-fed pond,L. Tetonica,4.1,5,2.3,warm,29.5,
+Tetonica Pond,snow-fed pond,L. Tetonica,4.1,5,2.3,warm,29.6,5.3
+Tetonica Pond,snow-fed pond,L. Tetonica,4.1,5,2.3,warm,29.8,
+Tetonica Pond,snow-fed pond,L. Tetonica,4.1,5,2.3,warm,29.8,5
+Tetonica Pond,snow-fed pond,L. Tetonica,4.1,5,2.3,warm,29.9,4.25
+Tetonica Pond,snow-fed pond,L. Tetonica,4.1,5,2.3,warm,30.1,5.25
+Tetonica Pond,snow-fed pond,L. Tetonica,4.1,5,2.3,warm,30.5,4.25
+Tetonica Pond,snow-fed pond,L. Tetonica,4.1,5,2.3,warm,30.6,5
+Tetonica Pond,snow-fed pond,L. Tetonica,4.1,5,2.3,warm,30.6,5
+Tetonica Pond,snow-fed pond,L. Tetonica,4.1,5,2.3,warm,30.6,4
+Tetonica Pond,snow-fed pond,L. Tetonica,4.1,5,2.3,warm,30.9,4.75
+Tetonica Pond,snow-fed pond,L. Tetonica,4.1,5,2.3,warm,31.3,5
+Wind Cave,icy seep,Zapada sp.,3,3.2,0.5,cool,20.2,
+Wind Cave,icy seep,Zapada sp.,3,3.2,0.5,cool,22.6,3.75
+Wind Cave,icy seep,Zapada sp.,3,3.2,0.5,cool,22.9,
+Wind Cave,icy seep,Zapada sp.,3,3.2,0.5,cool,23.3,
+Wind Cave,icy seep,Zapada sp.,3,3.2,0.5,cool,23.7,
+Wind Cave,icy seep,Zapada sp.,3,3.2,0.5,cool,24,
+Wind Cave,icy seep,Zapada sp.,3,3.2,0.5,cool,24.2,
+Wind Cave,icy seep,Zapada sp.,3,3.2,0.5,cool,24.8,
+Wind Cave,icy seep,Zapada sp.,3,3.2,0.5,cool,25.3,
+Wind Cave,icy seep,Zapada sp.,3,3.2,0.5,cool,25.6,5
+Wind Cave,icy seep,Zapada sp.,3,3.2,0.5,cool,26,
+Wind Cave,icy seep,Zapada sp.,3,3.2,0.5,cool,26.2,
+Wind Cave,icy seep,Zapada sp.,3,3.2,0.5,cool,27.3,4
+Wind Cave,icy seep,Zapada sp.,3,3.2,0.5,cool,27.3,
+Wind Cave,icy seep,Zapada sp.,3,3.2,0.5,cool,27.5,
+Wind Cave,icy seep,Zapada sp.,3,3.2,0.5,cool,27.5,
+Wind Cave,icy seep,Zapada sp.,3,3.2,0.5,cool,27.8,4
+Wind Cave,icy seep,Zapada sp.,3,3.2,0.5,cool,27.8,3.5
+Wind Cave,icy seep,Zapada sp.,3,3.2,0.5,cool,27.8,4.25
+Wind Cave,icy seep,Zapada sp.,3,3.2,0.5,cool,27.9,4
+Wind Cave,icy seep,Zapada sp.,3,3.2,0.5,cool,28.4,
+Wind Cave,icy seep,Zapada sp.,3,3.2,0.5,cool,28.4,
+Wind Cave,icy seep,Zapada sp.,3,3.2,0.5,cool,28.5,
